@@ -10,7 +10,7 @@ Hello! I made this repository since I am fond of using gradients and aesthetic e
 - Graphs (Work in Progress)
 - Assets (Work in Progress)
 
-##Usage
+## Usage
 Feel free to use these designs into your front-end development projects to create visually stunning websites. Whether you're designing a landing page, a portfolio, or an e-commerce site, these resources can help you achieve a more polished and attractive look.
 
 
