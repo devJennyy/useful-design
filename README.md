@@ -1,30 +1,16 @@
-# React + TypeScript + Vite
+# Useful Web Designs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+Hello! I made this repository since I am fond of using gradients and aesthetic elements when doing web designs, so this repository contains a collection of useful designs and elements that enhances the visual appeal of websites. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contents
+- Gradients
+- Waves (Work in Progress)
+- Graphs (Work in Progress)
+- Assets (Work in Progress)
 
-## Expanding the ESLint configuration
+## Usage
+Feel free to use these designs into your front-end development projects to create visually stunning websites. Whether you're designing a landing page, a portfolio, or an e-commerce site, these resources can help you achieve a more polished and attractive look.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
