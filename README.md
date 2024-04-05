@@ -4,7 +4,7 @@
 
 Hello! I made this repository since I am fond of using gradients and aesthetic elements when doing web designs, so this repository contains a collection of useful designs and elements that enhances the visual appeal of websites. 
 
-##Contents
+## Contents
 - Gradients
 - Waves (Work in Progress)
 - Graphs (Work in Progress)
